@@ -7,6 +7,9 @@ border: 10px black
 padding: 20px;
 }
 
-.body {background: grey;
-}
+.bio {color: blue;
+font-size: 30px; 
+margin-bottom: 10px;
+border: 10px black;}
 
+body{background: rgb(219, 217, 214)}
