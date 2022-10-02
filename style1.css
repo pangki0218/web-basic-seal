@@ -6,6 +6,10 @@ margin: 1px;
 border: 10px black
 padding: 20px;
 }
+.bio- {color: rgb(158, 31, 9);
+    font-size: 30px; 
+    margin-bottom: 10px;
+    border: 10px black;}
 
 .bio {color: blue;
 font-size: 30px; 
